@@ -1,0 +1,4 @@
+PORT=5000
+PASSWORD=your password
+MONGODB_URL=your url
+PRIVATE_KEY=your private key
